@@ -22,9 +22,6 @@ Classic Snake game built with Python and Pygame. Eat the fruit, grow the snake, 
 To install Pygame, run in your terminal:
 
 pip install pygame
-
-text
-
 ---
 
 ## How to Run
@@ -34,9 +31,6 @@ text
 3. Run the game with:
 
 python snake_game.py
-
-text
-
 ---
 
 ## Controls
