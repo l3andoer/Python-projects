@@ -1,6 +1,6 @@
 # Adrian's Snake Game
 
-A classic Snake game built with Python and Pygame. Eat the fruit, grow the snake, and try not to crash!
+Classic Snake game built with Python and Pygame. Eat the fruit, grow the snake, and try not to crash!
 
 ---
 
@@ -10,7 +10,7 @@ A classic Snake game built with Python and Pygame. Eat the fruit, grow the snake
 - Score tracking — your score increases as you eat more fruit.
 - Game over screen — see your final score when you lose.
 - Custom window size — play in a 720x480 game window.
-- Author’s plug — your name appears on-screen.
+- My name — your name appears on-screen.
 
 ---
 
@@ -19,7 +19,7 @@ A classic Snake game built with Python and Pygame. Eat the fruit, grow the snake
 - Python 3.x
 - Pygame library
 
-To install Pygame, run:
+To install Pygame, run in your terminal:
 
 pip install pygame
 
@@ -56,21 +56,7 @@ Avoid running into yourself or the screen boundaries — otherwise, it’s game 
 - Every fruit eaten = **+1 point**
 - Your score is always displayed at the top of the screen.
 - When you lose, you’ll see your final score.
-
----
-
-## Credits
-
-Made by **Adrian Abreu**  
-Special thanks to Python and Pygame!
-
----
-
-## Customization
-
-Feel free to edit colors, speed, or window size in the code!  
-For more features — try adding sound effects or a high score system.
-
+- 
 ---
 
 Have fun playing Adrian's Snake Game!
